@@ -4,9 +4,9 @@ Mossclip turns a long video into short vertical clips. This page describes the f
 
 ## 1. Start with the long one
 
-Paste a YouTube, Twitch or Kick link, or upload the file (MP4 or MOV). Leave the rules on auto, or say what you are after in a sentence, for example "the moments where they talk about money". Leave the clip length on auto (15 seconds to 3 minutes) or choose a range before you start.
+Paste a live Twitch or Kick channel, a YouTube, Twitch or Kick recording link, a Google Drive or Dropbox link, or upload the file (MP4 or MOV). Leave the rules on auto, or say what you are after in a sentence, for example "the moments where they talk about money". Leave the clip length on auto (15 seconds to 3 minutes) or choose a range before you start.
 
-Twitch and Kick work from the link of a finished recording. Copy the address of the finished stream (for Twitch, the one with `twitch.tv/videos` in it; for Kick, the one from the channel's videos) and paste it. There is nothing to download or upload and no account to connect. Paste it once the stream has ended. Because Mossclip starts from the recording, where the whole stream is, it finds the moments for you instead of starting from one somebody already cut.
+**Twitch and Kick work while you are live, or from the recording.** While the stream is on, paste the channel (`twitch.tv/name` or `kick.com/name`) and its latest two hours come back as clips before it ends; on a paid plan, Keep clipping does every new two hours until the stream ends. After the stream, paste the recording (for Twitch, the address with `twitch.tv/videos` in it; for Kick, the one from the channel's videos). There is nothing to download or upload and no account to connect. A live YouTube stream is clipped from its recording: paste the link once it has ended. Because Mossclip starts from the recording, where the whole stream is, it finds the moments for you instead of starting from one somebody already cut.
 
 ### Choosing the part of a long recording
 
@@ -44,6 +44,12 @@ Clips stay available for 15 days from the day they are made. Download the ones y
 
 Every word is timed to the speech, in a choice of nine styles: Karaoke, Beasty, Hormozi, Popline, Deep Diver, Bouncy, Highlighted, Mozi and Youshaei. The position can be top, middle or lower. A free page, [caption style preview](https://mossclip.com/en/tools/caption-style-preview), plays a line you type in each of the nine styles.
 
+## Sound, headline, emojis and sharing
+
+Every clip opens with a whoosh and gets a vine boom on the punchline when there is one; pick another sound or turn it off. A Headline on top switch on New project puts a short hook line above every clip, or leaves just the video and its captions. 3D emojis are drawn into the clip. Every finished clip has a Share button that gives a link to a page playing that one clip.
+
+Captions and titles come in more than 30 languages and follow the language the streamer speaks, even when the game is in another language.
+
 ## Access and cost
 
-Mossclip is in closed beta and free during the beta. Access is through its Discord server: open the [sign-in page](https://mossclip.com/en/login), join the Discord, and press one button. The plans are on the [pricing page](https://mossclip.com/en/pricing), and billing opens soon.
+**Anyone can sign up, with Google or an email link,** on the [sign-in page](https://mossclip.com/en/login). With Google, your first 30 minutes of video are free; join the Mossclip Discord server for two hours in total, plus two styled clips, once. Plans start at $9 a month for 4 hours of video, and 2 hours with no subscription cost $5. Many countries get a lower regional price at checkout. See the [pricing page](https://mossclip.com/en/pricing).
